@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+.body{
+	background-color: #48CCCD;
+	margin-left : 50px;
+	margin-right : 50px;
+}
+
+.rounded {
+	 
+}
+
+h2{
+	color : #000000;
+	font-family : Raleway;
+	text-transform : uppercase;
+}
+
+h4 {
+	color : #000000;
+	font-family : poppins;
+	margin-top : -5px;
+	
+}
+
+h3 {
+	color : #000000;
+	font-family : poppins;
+	margin-top : -5px;
+	
+}
